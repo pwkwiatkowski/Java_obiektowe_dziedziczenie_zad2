@@ -16,5 +16,5 @@ The purpose of this project is practise inheritance in Java.
 ## Status
 Project is: _finished_ because I finished it.
 
-## Inspiration
+## Source
 This exercise is from my lecturer, Mr Porzuczek.
